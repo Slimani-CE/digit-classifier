@@ -28,7 +28,7 @@ The implementation of the application includes the following steps:
 3. **Frontend**: The frontend code can be found in the `frontend` directory. It includes an HTML file (`index.html`) with a canvas element for drawing digits and JavaScript code (`script.js`) to handle the drawing, clearing, and submitting of the drawn image. When the user submits the image, it is converted to a data URL, sent as multipart form data in a POST request to the backend API, and the predicted digit is displayed.
 
 ## ✅ Test
-
+![Illustration gif](assets/illustration.gif)
 
 ## 📊 Perspective
 Collect User Feedback: One potential avenue for improving the digit classifier model is to collect user feedback on the accuracy of the classified images. By allowing users to provide feedback on whether the predicted digit matches their intended input, we can gather valuable data to refine and enhance the model's performance over time. This feedback loop can help identify and address any misclassifications or areas of improvement, ultimately leading to a more accurate and reliable digit recognition system."
