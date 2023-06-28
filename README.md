@@ -2,7 +2,6 @@
 
 This is a digit classifier application that allows users to draw handwritten digits and get predictions using a trained Artificial Neural Network (ANN) model.
 ## 📚 Table of Content
-- [Digit Classifier : End to End application](#digit-classifier--end-to-end-application)
   - [📚 Table of Content](#-table-of-content)
   - [📝 Overall](#-overall)
   - [📦 Dependencies](#-dependencies)
@@ -13,6 +12,7 @@ This is a digit classifier application that allows users to draw handwritten dig
 
 ## 📝 Overall
 The application consists of three main components: a frontend, a backend, and the machine learning part. The frontend provides a user-friendly interface for drawing digits, the backend handles API requests and serves predictions, and the machine learning part includes the training of the ANN model on the MNIST dataset.
+You can check this application out using the link: [here](https://slimani-ce.github.io/digit-classifier.github.io/)
 
 ## 📦 Dependencies
 ![TENSORFLOW](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Opencv](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![pickle](https://img.shields.io/badge/Pickle-FFA500?style=for-the-badge&logo=pickle&logoColor=white) ![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![uvicorn](https://img.shields.io/badge/Uvicorn-2C3E50?style=for-the-badge&logo=fastapi&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,3 +32,11 @@ The implementation of the application includes the following steps:
 
 ## 📊 Perspective
 Collect User Feedback: One potential avenue for improving the digit classifier model is to collect user feedback on the accuracy of the classified images. By allowing users to provide feedback on whether the predicted digit matches their intended input, we can gather valuable data to refine and enhance the model's performance over time. This feedback loop can help identify and address any misclassifications or areas of improvement, ultimately leading to a more accurate and reliable digit recognition system."
+
+## Contributing
+Contributions are always welcome! If you find any issues with the code or have suggestions for improvements, please feel free to submit a pull request.
+
+Just remember, we are not responsible for any broken keyboards or late-night coding sessions that may result from your contributions! 😄
+
+## Show Your Support
+If you found this notebook helpful, please give it a ⭐️ to show your support!
