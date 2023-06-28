@@ -1,0 +1,9 @@
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/Slimani-CE/digit-classifier-back-end
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/Slimani-CE/digit-classifier.github.io
+[submodule "ml-module"]
+	path = ml-module
+	url = https://github.com/Slimani-CE/digit-classifier-ml
