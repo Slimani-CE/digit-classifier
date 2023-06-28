@@ -2,7 +2,6 @@
 
 This is a digit classifier application that allows users to draw handwritten digits and get predictions using a trained Artificial Neural Network (ANN) model.
 ## 📚 Table of Content
-- [Digit Classifier : End to End application](#digit-classifier--end-to-end-application)
   - [📚 Table of Content](#-table-of-content)
   - [📝 Overall](#-overall)
   - [📦 Dependencies](#-dependencies)
